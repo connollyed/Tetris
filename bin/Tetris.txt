@@ -1,0 +1,15 @@
+Tetris -- TO DO.
+
+Player Class
+
+When Rotating Pieces the piece sometimes leave grid
+
+Stop pieces stopping when hitting into each others sides
+
+Timer
+
+Stop piece stopping sometimes when user presses down
+
+Take code out of TetrisGUI class 
+
+Pieces Dont Remember Color
